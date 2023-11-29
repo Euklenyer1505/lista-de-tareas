@@ -1,0 +1,123 @@
+body {
+    background-color: gray;
+    
+}
+
+
+#h1 {
+    font-size: 3.5rem;
+    text-align: center;
+    color: black;
+}
+
+#formulario {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+#input-escribir {
+    font-size: 1.5rem;
+    text-align: center;
+    border-radius: 2rem;
+    width: 10rem;
+    height: 3rem;
+    color: blue;
+    margin: 0.5rem;
+}
+
+#btn-agg{
+    width: 3rem;
+    height: 3rem;
+    border-radius: 45%;
+    margin-left: 1rem;
+}
+
+#btn-agg:hover {
+    background-color: green;
+    color: white;
+}
+
+.div-todo {
+    margin: 0 auto;
+}
+ul{
+    margin: 1rem 2rem;
+    width: auto;
+    height: auto;
+    display: flex;
+    list-style: none; 
+    align-items: center;
+    padding: 0;
+    
+}
+
+
+
+.list{
+    display: flex;
+    justify-content: center;
+    margin-right: 0 auto;
+}
+
+#botonl {
+    width: 3rem;
+    height: 3rem;
+    border-radius: 100%;
+    margin-left: 0;
+}
+
+#botonl:hover {
+    background-color: yellowgreen;
+    color: white;
+}
+
+.botonb {
+
+    width: 3rem;
+    height: 3rem;
+    border-radius: 100%;
+    margin: 0.5rem;
+}
+.botonb:hover {
+    background-color: red;
+    color: white;
+}
+
+#li {
+    font-size: 2rem;
+    margin: 0 1rem 0 1rem;
+   list-style: none;
+   margin: 0 1rem 0 1rem;
+}
+
+#contenedor {
+    text-align: center;
+    background-color: rgb(189, 176, 176);
+    width: 100%;
+    height: 12rem;
+    overflow-y: scroll ;
+    word-break: break-all;
+
+}
+#contadores {
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+    
+    
